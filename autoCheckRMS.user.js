@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         一括チェック
 // @namespace    http://tampermonkey.net/
-// @version      0.1.2
+// @version      0.1.3
 // @description  try to take over the world!
 // @author       You
 // @match        https://item.rms.rakuten.co.jp/rms-item-download/shops/*
